@@ -63,8 +63,6 @@ hr {
   color: var(--primary-color);
 }
 
-/** look into BEM naming convention for CSS **/
-
 /** lists **/
 
 .list-non-bullet {
